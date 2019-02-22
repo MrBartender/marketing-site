@@ -18,7 +18,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#BE432A`,
         theme_color: `#BE432A`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `src/images/mrbartender.png`, // This path is relative to the root of the site.
       },
     },

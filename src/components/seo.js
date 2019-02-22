@@ -78,7 +78,7 @@ SEO.defaultProps = {
   title: `Mr.Bartender`,
   description: `The next generation of drinking`,
   keywords: [`MrBartender`, `mr`, `bartender`, `recipes`, `drinks`, `automated`],
-  author: `@mrbartender`,
+  author: `@mrbartenderteam`,
 }
 
 SEO.propTypes = {
